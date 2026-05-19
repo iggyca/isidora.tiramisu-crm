@@ -1,0 +1,9 @@
+{
+  "short_name": "Tiramisu CRM",
+  "name": "TiramisuERP CRM",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f0e0d",
+  "background_color": "#0f0e0d",
+  "icons": []
+}

@@ -1,0 +1,9 @@
+{
+  "short_name": "DD CRM",
+  "name": "Data Design CRM",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d0f13",
+  "background_color": "#0d0f13",
+  "icons": []
+}

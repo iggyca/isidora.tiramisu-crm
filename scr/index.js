@@ -1,19 +1,5 @@
-{
-  "name": "tiramisu-crm",
-  "version": "2.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@supabase/supabase-js": "^2.39.0",
-    "react-scripts": "5.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
-  "browserslist": {
-    "production": [">0.2%", "not dead"],
-    "development": ["last 1 chrome version"]
-  }
-}
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import AppWrapper from './AppWrapper';
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<React.StrictMode><AppWrapper /></React.StrictMode>);
